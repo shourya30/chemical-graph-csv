@@ -1,5 +1,4 @@
-ID ,MATERIALS ,"MolWeight
-",Price
+ID,MATERIALS,MolWeight,Price
 CHEM-000001,ethylene dichloride (edc),98.96,1.265
 CHEM-000002,ethylenediamine (eda),60.1,0.25
 CHEM-000003,tetraethylenepentamine (tepa),189.3,0.25
